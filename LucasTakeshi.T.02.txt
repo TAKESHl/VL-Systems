@@ -1,0 +1,4 @@
+Nome: Lucas Takeshi Yamamoto            RA:201951118537
+
+
+Entre as tecnologias RMI, DCOM e CORBA eu escolheria a DCOM, pois, ao contrário da CORBA e da RMI, que oferecem o suporte a herança múltipla no nível da interface, a tecnologia DCOM oferece o suporte a várias interfaces para objetos e utiliza o método QueryInterface () para navegar entre as suas interfaces. Isso significa que um proxy de cliente carrega dinamicamente vários stubs de servidor na camada remota, dependendo do número de interfaces que estão sendo usadas. Além disso o DCOM aceita diversas linguagens como C ++, Java, Delphi e até mesmo COBOL podem ser utilizadas.
