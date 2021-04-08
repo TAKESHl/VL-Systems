@@ -1,0 +1,6 @@
+Nome: Vitor Hugo Batista dos Santos
+
+
+Justifique a sua escolha por uma das três tecnologias RPC existentes:
+
+R: Minha escolha foi RMI, por conta de que as chamadas remotas no estilo RPC são executados nas aplicações desenvolvidas em Java, onde tenho mais familiaridade e tem a possibilidade de utilizar o código de um objeto sem precisar compilar este código novamente.
