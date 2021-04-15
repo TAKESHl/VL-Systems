@@ -3,3 +3,10 @@ AV1
 
 T01 = 1.5 pts
 
+T02
+
+Lucas Takeshi Yamamoto		= 1 pt
+Vitor Hugo Batista dos Santos	= 1 pt
+
+
+
